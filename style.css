@@ -8,15 +8,27 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
     background-color: #1f7709;
     color: #fff;
   }
   
   h1 {
     font-size: 200%;
+    font-family: sans-serif;
+    padding-left: 50px;
+    padding-right: 10px;
+    color: #23b403;
+    background-color: #055305;
+    display:inline-block
+    
+    
   }
   
+
+ 
   h2 {
     margin: 2% 0;
     font-size: 175%;
@@ -33,9 +45,12 @@ body {
   li:first-child {margin-left: 0px;}
  
    nav a {
-    color: #b9c6ae;
+    color: #055305;
     font-weight: bold;
-    text-decoration: none;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 4px;
+    text-decoration-color: #23b403;
   }
   
   nav a:hover {
