@@ -4,7 +4,7 @@ body {
     line-height: 1.3;
   }
   
-  header {
+  header{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,6 +15,19 @@ body {
     color: #fff;
   }
   
+  
+  .second{
+    display: flex;
+    justify-content: right;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 1%;
+    background-image: url(./assets/green\ leaves\ background.png);
+    color: #ffffff;
+  
+    
+  }
+ 
   h1 {
     font-size: 200%;
     font-family: sans-serif;
@@ -30,8 +43,9 @@ body {
 
  
   h2 {
-    margin: 2% 0;
+    margin: none;
     font-size: 175%;
+    text-align: right;
   }
   
   nav ul {
@@ -56,28 +70,18 @@ body {
   nav a:hover {
     color: #fff;
   }
-  
-  main {
+
+  .About {
     display: flex;
-    flex: 1 1 0;
-    max-width: 96%;
-    margin: 2% auto;
-  }
+    flex-direction: row;
+  }  
   
-  article {
-    border-bottom: 1px solid #13293d;
+  .About div{
+    flex: 1;
+    border-spacing: 4px solid #055305;
   }
-  
-  article p {
-    margin: 2% 0;
-    font-size: 110%;
-  }
-  
-  article ul {
-    margin-left: 5%;
-    font-size: 110%;
-    list-style: circle;
-  }
+
+
   
   footer {
     display: flex;
