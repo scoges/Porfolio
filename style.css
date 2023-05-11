@@ -36,12 +36,8 @@ body {
     color: #1d5e55;
     background-color: #53807c;
     display:inline-block
-    
-    
-  }
+    }
   
-
- 
   h2 {
     margin: none;
     font-size: 175%;
@@ -74,7 +70,6 @@ body {
   .About {
     display: flex;
     margin-top: 100px;
-  
   }  
   
   .AM {
@@ -84,11 +79,9 @@ body {
     flex-grow: .5;
     text-align: right;
     border-right: 5px solid #1d5e55;
-    padding-right: 10px;
-   
-  
-    
-  }
+    margin-right: 20px;
+    padding-right: 20px;
+ }
 
 .AM:first-child{margin-right: 20px;}
  .ME {
@@ -96,16 +89,170 @@ body {
     flex-grow: 1;
     color: #1d5e55;
     font-family: 'Times New Roman', Times, serif;
-   
-   
  }
   
-  footer {
+ .Worktop {
     display: flex;
-    justify-content: center;
-    padding: 2%;
-    background-color: #13293d;
-    color: #fff;
-  }
+    margin-top: 100px;
+    
+    
+   
+ }
+
+ .Work{
+    font-size: 50px;
+    color: #1d5e55;
+    flex-basis: 100px;
+    flex-grow: .5;
+    text-align: right;
+    border-right: 5px solid #1d5e55;
+    margin-right: 20px;
+    padding-right: 20px;
+ } 
+.Website:hover{
+  color: #53807c7e;
+ opacity: 50%;
+}
+
+
+.BRO:hover{
+  color: #53807c7e;
+ opacity: 50%;
+}
+
+
+.Bear:hover{
+  color: #53807c7e;
+ opacity: 50%;
+}
+
+.CP:hover{
+  color: #53807c7e;
+ opacity: 50%;
+}
+
+
+.Surf:hover{
+  color: #53807c7e;
+ opacity: 50%;
+}
+
+
+ .Right{
+  flex-direction: column;
+  flex-basis: 100px;
+  flex-grow: 1;
+  min-height: 1400px;
+  display: block;
   
+
+
+}
+ .Website{
+  display: block;
+  background-image: url(./assets/colorfulwebsite.png); 
+  height: 1000px;
+  width: 1000px;
+  background-size: cover;
+ color: #1d5e55;
+ text-align: center;
+ font-size: 50px;
+ font-family: 'Times New Roman', Times, serif;
  
+ 
+ 
+ }
+
+
+ .BRO{
+   background-image: url(./assets/10.png);
+  height: 200px;
+  width: 500px;
+  border: 5px solid #1d5e55;
+  background-size: cover;
+  padding: 10px;
+  background-position: center;
+  margin-top: 10px; 
+  color: #1e4c52;
+  font-size: x-large;
+  display:inline-block  
+}
+
+
+
+.Bear{
+    display: inline-block;
+  background-image: url(./assets/6.png);
+  height: 200px;
+  width: 500px;
+  background-size: cover;
+  background-position: center;
+  border: 5px solid #1d5e55;
+  margin-top: 10px; 
+  padding: 10px;
+  color: #1e4c52;
+  font-size: x-large;
+}
+ 
+ .Surf{
+  display: inline-block; 
+  background-image: url(./assets/surftracks.png);
+   height: 200px;
+   width: 500px;
+   background-size: cover;
+   background-position: center;
+   border: 5px solid #1d5e55;
+   margin-top: 10px; 
+   padding: 10px;
+   color:#1e4c52;
+  font-size: x-large;
+ }
+
+ .CP{
+  display: inline-block; 
+  background-image: url(./assets/Cachepaths.png);
+  height: 200px;
+  width: 500px;
+  background-size: cover;
+  background-position: center;
+  border: 5px solid #1d5e55;
+  margin-top: 10px; 
+   padding: 10px;
+   color: #1e4c52;
+  font-size: x-large;
+ }
+ .Footer {
+    display: flex;
+    
+ }
+   
+  .Contact{
+    display: flex;
+    margin-top: 30px;
+  }
+ 
+  .Con {
+    font-size: 50px;
+    color: #1d5e55;
+    flex-basis: 100px;
+    flex-grow: .97;
+    text-align: right;
+    border-right: 5px solid #1d5e55;
+    margin-right: 20px;
+    padding-right: 20px;
+ }
+
+.Con:first-child{margin-right: 20px;}
+
+.Connav{
+  display: inline-flex;
+  flex-grow: 1;
+  font-size: x-large;
+  color: #1d5e55;
+  font-family: 'Times New Roman', Times, serif;
+  justify-content: space-evenly;
+
+}
+  .Connav:hover{
+    color: #708683
+  }
