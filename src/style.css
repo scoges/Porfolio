@@ -180,9 +180,9 @@ body {
 
 
 
-.Bear{
+.lyric{
     display: inline-block;
-  background-image: url(./assets/6.png);
+  background-image: url(./assets/drunkmoms.png);
   height: 200px;
   width: 500px;
   background-size: cover;
@@ -210,7 +210,7 @@ body {
 
  .CP{
   display: inline-block; 
-  background-image: url(./assets/Cachepaths.png);
+  background-image: url(./assets/mainPage.png);
   height: 200px;
   width: 500px;
   background-size: cover;
