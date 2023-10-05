@@ -1,31 +1,39 @@
-# Portfolio
-## Details
+# React Portfolio
 
-In our second module challeng we were asked to setup our initial portfolio. The requirements were as follows:
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-GIVEN I need to sample a potential employee's previous work
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Licenses](#licenses)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [Credits](#credits)
 
-WHEN I load their portfolio
+  ## Description
+  A portfolio of work using react components
 
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+  ## Installation
+  view the site at https://scoges.github.io/Portfolio/
 
-WHEN I click one of the links in the navigation
+  ## Usage
+  -
 
-THEN the UI scrolls to the corresponding section
+  ## Licenses
+    This project is covered under the MIT license. To learn more click the license button at the top.
 
-WHEN I click on the link to the section about their work
+  ## Contributing
+  -
 
-THEN the UI scrolls to a section with titled images of the 
-developer's applications
+  ## Tests
+  -
 
-WHEN I am presented with the developer's first application
+  ## Questions
+  Have questions about this project?  
+  GitHub: https://github.com/scoges  
+  Email: scott.ogrins@gmail.com
 
-THEN that application's image should be larger in size than the others
-
-WHEN I click on the images of the applications
-
-THEN I am taken to that deployed application
-
-WHEN I resize the page or view the site on various screens and devices
-
-THEN I am presented with a responsive layout that adapts to my viewport
+  ## Credits
+  Scott Ogrins
