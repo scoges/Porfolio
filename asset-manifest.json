@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a2f747bd.css",
+    "main.js": "/Portfolio/static/js/main.d16fc6c9.js",
+    "static/media/drunkmoms.png": "/Portfolio/static/media/drunkmoms.7c08e10445e985266182.png",
+    "static/media/mainPage.png": "/Portfolio/static/media/mainPage.4f3a29688473e2f0d9ae.png",
+    "static/media/green leaves background.png": "/Portfolio/static/media/green leaves background.9420e24c24e783855dac.png",
+    "static/media/colorfulwebsite.png": "/Portfolio/static/media/colorfulwebsite.4c2074a49d0ca209927a.png",
+    "static/media/10.png": "/Portfolio/static/media/10.6e0980aa45f54a7a12dd.png",
+    "static/media/surftracks.png": "/Portfolio/static/media/surftracks.a909b1dc0aacdb9d8b0d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a2f747bd.css.map": "/Portfolio/static/css/main.a2f747bd.css.map",
+    "main.d16fc6c9.js.map": "/Portfolio/static/js/main.d16fc6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f747bd.css",
+    "static/js/main.d16fc6c9.js"
+  ]
+}
