@@ -194,9 +194,9 @@ body {
   font-size: x-large;
 }
  
- .Surf{
+ .Writers{
   display: inline-block; 
-  background-image: url(../assets/surftracks.png);
+  background-image: url(../assets/writers.png);
    height: 200px;
    width: 500px;
    background-size: cover;

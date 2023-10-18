@@ -11,7 +11,7 @@ function Projects() {
         <ProjectItem name="Red Ogre Adventures" link="https://www.youtube.com/watch?v=vS9EwFlGxeY&t" />
         <ProjectItem name="lyric Lord" link="https://elitehuskie.github.io/project-01-music-lyrics-game/" />
         <ProjectItem name="MapBrew" link="https://mapbrew-websitee-20a575919a4b.herokuapp.com/login" />
-        <ProjectItem name="Surf Tracker" link="https://github.com/scoges" />
+        <ProjectItem name="Writers Room" link="https://writers-room-2023-1fe71a40c61d.herokuapp.com/" />
       </section>
     </section>
   );
